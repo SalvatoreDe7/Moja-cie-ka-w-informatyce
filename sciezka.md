@@ -1,7 +1,7 @@
 # Moja ścieżka rozwoju
 
 ## Szybko o mnie
-> Mój pseudonim to **Salvatore** i moim zainteresowaniem jest wszelkiego rodzaju **technologia**
+> Mój pseudonim to **Salvatore** i jestem poczatkującym informatykiem
 
 ## 1. Doświadczenia z informatyką
 Moja dotychczasowa styczność z informatyka obejmuje:
@@ -14,3 +14,9 @@ Podczas studiów informatycznych chcę skupić sie na nastepujących celach:
 1. Opanowanie programowania
 2. Nauka dobrych praktyk pisania czystego/czytelnego kodu
 3. Zbudowanie własnego portfolio projektów na **GitHubie** i zwiększenie zainteresowania moją osobą na rynku pracy
+
+## 3. Zainteresowania
+Poza samą nauką na uczelni interesuje się:
+* **Motoryzacją:** mechanika samochodowa, motorsport (driftmasters czy f1), jednoślady, i klasyczna motoryzacja
+* **Technologia:** wszelkiego rodzaju technologia, AI, Giganci rynków technologicznych
+* **Gry:** *CS2*, *LoL*, *GTA* oraz nowinki sprzętowe
