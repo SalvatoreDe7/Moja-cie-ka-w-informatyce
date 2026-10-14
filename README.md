@@ -4,7 +4,7 @@
 
 Dokument oraz repozytorium powstały przy pomocy języka znaczników **Markdown**
 
-
+**Główny dokument zadania:** [Moja ścieżka rozwoju (sciezka.md)](sciezka.md)
 
 ## Wykorzystywana dokumentacja
 
